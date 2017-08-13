@@ -1,0 +1,45 @@
+.stock{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #808080;
+    border-radius:3px;
+    background: #6699ff;
+    color: white;
+}
+.stock:hover{
+    background: #3377ff;
+    border-color: #999999;
+    cursor: pointer;
+}
+
+.con{
+    margin: 30px;
+}
+
+
+#stocks{
+    padding: 10px;
+    text-align:center;
+    margin: 20px;
+}
+#add{
+    border: 1px solid #808080;
+    border-radius: 5px;
+    width: 300px;
+    padding: 10px;
+    padding-bottom: 0;
+    margin:20px auto;
+}
+#add button{
+    margin: 5px;
+    cursor: copy;
+}
+
+body{
+    background-color: #ccddff;
+}
+h1{
+    text-align: center;
+    margin: 15px;
+}
